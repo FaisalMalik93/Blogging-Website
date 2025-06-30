@@ -1,20 +1,11 @@
 {
   "name": "blogging-website",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FaisalMalik93/Blogging-Website.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FaisalMalik93/Blogging-Website/issues"
-  },
-  "homepage": "https://github.com/FaisalMalik93/Blogging-Website#readme",
-  "description": ""
+  "license": "ISC"
 }
